@@ -1,0 +1,41 @@
+.d-total,
+.card-action {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sm-card-width {
+  width: max-content;
+}
+
+.ml-rm {
+  margin-left: unset;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.btn-unset-parent {
+  width: auto;
+  margin: unset;
+}
+
+@media (max-width: 555px) {
+  .d-total {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+  }
+  .sm-card-width {
+    width: 250px;
+  }
+
+  .ml-rm {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}

@@ -1,0 +1,11 @@
+.pg-head-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.pg-level-btn {
+  width: auto;
+  font-size: inherit;
+  margin: unset;
+}
