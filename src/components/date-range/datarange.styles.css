@@ -1,7 +1,7 @@
 .calendarWrap {
   display: inline-block;
   position: relative;
-  animation: slideInFromRight 1s ease-in;
+  /* animation: slideInFromRight 1s ease-in; */
 }
 
 .calendarElement {

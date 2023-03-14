@@ -205,7 +205,7 @@ a {
 }
 .search-input-wrapper {
   margin: 2%;
-  animation: slideInFromLeft 1s ease-in;
+  /* animation: slideInFromLeft 1s ease-in; */
 }
 
 .filter-container {
