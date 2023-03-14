@@ -8,7 +8,7 @@ This is PWA application, is build to display users and games data from Node & ex
 
 ## Sample live link
 
-[The Game Board]()
+[The Game Board](https://gameboard.onrender.com/)
 
 ## Download or clone repo
 
@@ -16,9 +16,11 @@ This is PWA application, is build to display users and games data from Node & ex
 
 - Download or clone repo of the [backend application](https://github.com/bhavin-devmurari/game-board-api).
 
-- Update allowed origin and put [Local URL]("http://localhost:3000/") or port number where react app will run.
+- Follow README file steps of the [back-end repo](https://github.com/bhavin-devmurari/game-board-api)
 
-- Run the backend, by default running on port 9000.
+- Update allowed origin and put [React Local URL]("http://localhost:3000/") or port number where react app will run.
+
+- Run the backend. By default back-end running on port 9000.
 
 ### `Front-end or react requirements`
 

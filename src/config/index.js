@@ -72,4 +72,4 @@ export const toastType = (type) => {
 };
 
 export { httpClient } from "./http.common";
-export { menuItems } from "./menu.item";
+export { navItems } from "./menu.item";
